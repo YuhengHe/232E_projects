@@ -1,0 +1,1 @@
+To obtain the result as presented in the report, one can simply run the code in the Project3.ipynb sequentially.
